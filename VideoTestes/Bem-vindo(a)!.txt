@@ -1,0 +1,8 @@
+Bem-vindo(a)!
+
+Esta pasta contém simples demonstrações de teste dos algoritmos de ordenação: Bubble Sort, Merge Sort e Quick Sort.
+
+Sinta-se à vontade para assistir e analisar os resultados dos testes.
+
+Atenciosamente,
+[Ryan Paulo Silva]
